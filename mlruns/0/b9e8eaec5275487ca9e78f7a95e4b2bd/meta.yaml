@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kaiz/Desktop/Wine-Quality/mlruns/0/b9e8eaec5275487ca9e78f7a95e4b2bd/artifacts
+end_time: 1711425654311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9e8eaec5275487ca9e78f7a95e4b2bd
+run_name: bustling-bug-853
+run_uuid: b9e8eaec5275487ca9e78f7a95e4b2bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711425652760
+status: 3
+tags: []
+user_id: kaiz

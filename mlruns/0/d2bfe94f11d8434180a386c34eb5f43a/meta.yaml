@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kaiz/Desktop/Wine-Quality/mlruns/0/d2bfe94f11d8434180a386c34eb5f43a/artifacts
+end_time: 1711425691206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2bfe94f11d8434180a386c34eb5f43a
+run_name: upset-lark-729
+run_uuid: d2bfe94f11d8434180a386c34eb5f43a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711425689556
+status: 3
+tags: []
+user_id: kaiz

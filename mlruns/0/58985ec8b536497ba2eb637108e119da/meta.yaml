@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kaiz/Desktop/Wine-Quality/mlruns/0/58985ec8b536497ba2eb637108e119da/artifacts
+end_time: 1711423759578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58985ec8b536497ba2eb637108e119da
+run_name: resilient-bear-315
+run_uuid: 58985ec8b536497ba2eb637108e119da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711423755628
+status: 3
+tags: []
+user_id: kaiz

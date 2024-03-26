@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kaiz/Desktop/Wine-Quality/mlruns/0/8a2e1adffc8841a5bc98438c490179ae/artifacts
+end_time: 1711425555209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a2e1adffc8841a5bc98438c490179ae
+run_name: selective-koi-424
+run_uuid: 8a2e1adffc8841a5bc98438c490179ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711425553728
+status: 3
+tags: []
+user_id: kaiz

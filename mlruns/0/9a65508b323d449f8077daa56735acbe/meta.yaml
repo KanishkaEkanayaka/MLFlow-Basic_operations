@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kaiz/Desktop/Wine-Quality/mlruns/0/9a65508b323d449f8077daa56735acbe/artifacts
+end_time: 1711424280456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a65508b323d449f8077daa56735acbe
+run_name: awesome-bee-111
+run_uuid: 9a65508b323d449f8077daa56735acbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711424280453
+status: 4
+tags: []
+user_id: kaiz

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kaiz/Desktop/Wine-Quality/mlruns/0/4d313d36c85a420994998b16d9e492fa/artifacts
+end_time: 1711424210445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d313d36c85a420994998b16d9e492fa
+run_name: marvelous-owl-779
+run_uuid: 4d313d36c85a420994998b16d9e492fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711424210441
+status: 4
+tags: []
+user_id: kaiz

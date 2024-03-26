@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kaiz/Desktop/Wine-Quality/mlruns/0/3db6806ba3b3401a9c1589930b352dd1/artifacts
+end_time: 1711424750042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3db6806ba3b3401a9c1589930b352dd1
+run_name: delightful-stoat-257
+run_uuid: 3db6806ba3b3401a9c1589930b352dd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711424748546
+status: 3
+tags: []
+user_id: kaiz

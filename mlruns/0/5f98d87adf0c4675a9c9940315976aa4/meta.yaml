@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kaiz/Desktop/Wine-Quality/mlruns/0/5f98d87adf0c4675a9c9940315976aa4/artifacts
+end_time: 1711425673229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f98d87adf0c4675a9c9940315976aa4
+run_name: shivering-swan-37
+run_uuid: 5f98d87adf0c4675a9c9940315976aa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711425671694
+status: 3
+tags: []
+user_id: kaiz

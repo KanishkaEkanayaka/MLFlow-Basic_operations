@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kaiz/Desktop/Wine-Quality/mlruns/0/1efde2b8a6b94e00a2c1c26ff9fcee5b/artifacts
+end_time: 1711425638000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1efde2b8a6b94e00a2c1c26ff9fcee5b
+run_name: victorious-cod-991
+run_uuid: 1efde2b8a6b94e00a2c1c26ff9fcee5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711425636552
+status: 3
+tags: []
+user_id: kaiz
